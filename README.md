@@ -1,4 +1,4 @@
-# FIDL
+# Paid Retrieval proxy + client
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-FIDL is an on-going development project consisting in three different components:
+thist project contains three different components:
 
 -   [CLI (Command Line Interface)](#cli): client to deposit FIL funds and request retrievals from storage providers
 -   [Service/Bank](#bank): http server to act as a service/bank
