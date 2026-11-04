@@ -1,8 +1,6 @@
 module github.com/subvisual/fidl
 
-go 1.22.0
-
-toolchain go1.22.4
+go 1.24
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -11,7 +9,7 @@ require (
 	github.com/filecoin-project/go-address v1.2.0
 	github.com/filecoin-project/go-state-types v0.14.0
 	github.com/filecoin-project/venus v1.16.2
-	github.com/go-chi/chi/v5 v5.0.10
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-chi/cors v1.2.1
 	github.com/go-playground/validator/v10 v10.22.1
 	github.com/golang-migrate/migrate/v4 v4.18.1
